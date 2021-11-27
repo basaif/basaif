@@ -4,7 +4,7 @@
 
 **Welcome to my profile 😊 ![visitors](https://visitor-badge.glitch.me/badge?page_id=basaif.basaif)**
 
-# About Me
+### About Me
 
 - 🔭 I’m currently working on a memory game.
 - 🌱 I’m currently learning C# .NET, WPF
@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with code architecture and design.
 - 💬 Ask me anything.
 
-# GitHub Stats
+### GitHub Stats
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basaif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
