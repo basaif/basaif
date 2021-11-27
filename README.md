@@ -12,6 +12,11 @@
 - 🤔 I’m looking for help with code architecture and design.
 - 💬 Ask me anything.
 
+### Spent my time on this week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### GitHub Stats
 
 <p>
