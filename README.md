@@ -1,9 +1,12 @@
 ### Hi there, I'm Iman Basaif 👋
 
+<img align="right" alt="Picture" src="https://user-images.githubusercontent.com/32367191/155375544-d0c30ef3-90af-4513-9bc9-e5c5a9d3a5ee.PNG" width="300" height="300" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/imanbasaif)
 
 **Welcome to my profile 😊 ![visitors](https://visitor-badge.glitch.me/badge?page_id=basaif.basaif)**
 
+  
 ### About Me
 
 - 🔭 I’m currently working on a memory game.
@@ -19,4 +22,5 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basaif&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
 
